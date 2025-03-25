@@ -7,6 +7,8 @@ Projeto da matéria de Programação para Dispositivos Móveis que consiste em c
 Foi criado um cardápio para um restaurante italiano chamado Sapore di Casa, utilizando o básico de react-native, na linguagem Javascript. A plataforma Expo foi utilizada para facilitar a emulação do aplicativo no celular e a plataforma escolhida foi o Android.
 
 ## :clamp: Tecnologias usadas
-* React native
-* Javascript
-* Expo
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) <br>
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br>
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+
+
