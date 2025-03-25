@@ -8,4 +8,5 @@ Foi criado um cardápio para um restaurante italiano chamado Sapore di Casa, uti
 
 ## :clamp: Tecnologias usadas
 * React native
-* 
+* Javascript
+* Expo
