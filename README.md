@@ -13,9 +13,9 @@ Foi criado um cardápio para um restaurante italiano chamado Sapore di Casa, uti
 
 ## 📸 Capturas de Tela
 <div align="center">
-    <img src="Images/sapore1.jpg" width="250px" alt="Home"/>
-    <img src="Images/sapore2.jpg" width="250px" alt="Descrição"/>
-    <img src="Images/sapore3.jpg" width="250px" alt="Carrinho"/>
-    <img src="Images/sapore4.jpg" width="250px" alt="Cadastro"/>
+    <img src="Images/sapore1.jpg" width="200px" alt="Home"/>
+    <img src="Images/sapore2.jpg" width="200px" alt="Descrição"/>
+    <img src="Images/sapore3.jpg" width="200px" alt="Carrinho"/>
+    <img src="Images/sapore4.jpg" width="200px" alt="Cadastro"/>
 </div>
 
